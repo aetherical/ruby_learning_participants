@@ -59,3 +59,5 @@ Change log:
 
 Cheers,
 ashbb (Satoshi Asakawa)
+---
+git class change
